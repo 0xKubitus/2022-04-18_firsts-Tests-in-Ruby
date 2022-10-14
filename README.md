@@ -63,8 +63,12 @@ Basically, this is "error-driven development"... you'll keep running tests, hitt
   /Documents/my_homework/ruby
   ```
 
+</details>
+
+<br/>
+<hr/>
+<br/>
 
 ### Credit
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
-</details>
