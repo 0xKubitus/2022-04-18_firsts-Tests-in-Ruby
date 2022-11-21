@@ -3,8 +3,6 @@
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
 
-### 18 Avril 2022
-
 # Exercices et Tests
 Avec ce projet, j'ai appris à effectuer des tests en Ruby à l'aide de Rspec.
 
